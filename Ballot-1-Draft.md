@@ -29,18 +29,7 @@ C. Review once annually.
 D. Leave unchanged.
 ```
 
-### 4. Shall DripDropz set the minimum wallet size allowed to drip to 50 ADA, 100 ADA, 250 ADA or leave it unchanged at 10 ADA?
-
-> DripDropz has uncovered substantial wallet farming activities with low ADA wallets. To ensure that we are encouraging effective decentralization and fair use, minimum ADA amounts must be required on a per wallet basis. Choosing an amount below will determine the new minimum wallet size for receiving the DRIP token. 
-
-```
-A. Require wallets to have a minimum of 50 ADA to receive DRIP.
-B. Require wallets to have a minimum of 100 ADA to receive DRIP.
-C. Require wallets to have a minimum of 250 ADA to receive DRIP.
-D. Make no changes to the current minimum amount of 10 ADA to receive DRIP.
-```
-
-### 5. Shall DripDropz accept an allocation from the treasury of DRIP tokens to enable Node Operator rewards and build a more decentralized DripDropz platform?
+### 4. Shall DripDropz accept an allocation from the treasury of DRIP tokens to enable Node Operator rewards and build a more decentralized DripDropz platform?
 
 > DripDropz formed with a 100% allocation of forty five billion (45,000,000,000) DRIP tokens to the users of the platform. In order to provide more decentralization for the platform, some of the DRIP not yet in circulation can be allocated for that purpose. This request is for 3%, 2%, or 1% of the total supply of DRIP tokens to be set aside for Node Operator rewards.
 
@@ -51,7 +40,7 @@ C. Yes, permit DripDropz to allocate 1% of the total supply.
 D. No, do not allow DripDropz to allocate any of the total supply.
 ```
 
-### 6. Shall DripDropz accept an allocation from the treasury of DRIP tokens to enable operational flexibility, DEX/CEX platform incentives, community incentives and DripDropz team and employee rewards?
+### 5. Shall DripDropz accept an allocation from the treasury of DRIP tokens to enable operational flexibility, DEX/CEX platform incentives, community incentives and DripDropz team and employee rewards?
 
 > DripDropz formed with a 100% allocation of forty five billion (45,000,000,000) DRIP tokens to the users of the platform. In order to provide flexibility, community incentives, and rewards to the founding team and employees, some of the DRIP not yet in circulation can be allocated to that purpose. This request is for 5%, 7.5%, or 10% of total supply of DRIP tokens to be set aside for operations, community incentives, and vesting to the founding team members and employees over a 4 year schedule.
 
