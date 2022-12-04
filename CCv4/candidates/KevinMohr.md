@@ -1,0 +1,20 @@
+# Candidate #
+***
+## Kevin Mohr ##
+
+[Link to Cardano Forum](https://forum.cardano.org/t/kevin-mohr-platform-statement/109223)
+
+### Describe Your Role in the Community ###
+
+Proposer, Challenge Team, PA?, vPA? Who knows.
+
+### What key ideas or issues would you like to champion as a representative at the Catalyst Circle? ###
+
+Legal Framework
+
+### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+
+The Practice of Law should not be measured.
+
+### Is there anything else you would like voters to know as to why you would be a good fit for this seat on the Circle? ###
+
