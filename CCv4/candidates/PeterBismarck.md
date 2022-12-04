@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Peter Bismarck ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/peter-bismarck/109145)

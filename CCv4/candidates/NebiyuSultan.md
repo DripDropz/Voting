@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Nebiyu Sultan ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/nebiyu-sultan-platform-statement/109207)

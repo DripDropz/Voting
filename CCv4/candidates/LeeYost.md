@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Lee Yost ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/lee-yost-platform-statement/109200)

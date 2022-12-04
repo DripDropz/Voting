@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Ivan Kwananda ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/ivan-kwananda-platform-statement/109196)

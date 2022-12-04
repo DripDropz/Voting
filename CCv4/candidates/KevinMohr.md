@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Kevin Mohr ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/kevin-mohr-platform-statement/109223)

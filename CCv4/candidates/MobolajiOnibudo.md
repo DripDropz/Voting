@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Mobolaji Onibudo ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/mobolaji-onibudo-platform-statement/109219)

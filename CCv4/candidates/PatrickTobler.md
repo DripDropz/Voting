@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Patrick Tobler ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/patrick-tobler-platform-statement/109206)

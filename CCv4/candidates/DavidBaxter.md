@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## David Baxter ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/david-baxter-platform-statement/109195)

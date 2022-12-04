@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Melannie Duhon ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/melannie-duhon-platform-statement/109225)

@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## George Lovegrove ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/george-lovegrove-platform-statement/109205)

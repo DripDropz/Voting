@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Mohammed Mustapha Yakubu ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/mohammed-mustapha-yakubu-platform-statement/109215)

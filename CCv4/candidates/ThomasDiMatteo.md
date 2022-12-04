@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Thomas DiMatteo ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/thomas-dimatteo-platform-statement/109224)

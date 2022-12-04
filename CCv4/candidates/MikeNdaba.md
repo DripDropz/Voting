@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Mike Ndaba ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/ndabamike-platform-statement/109179?u=catalyst-circle)

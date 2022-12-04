@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Curtis Myers ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/curtis-myers-platform-statement/109221)

@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Ninh Tran ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/ninh-tran-platform-statement/109191)

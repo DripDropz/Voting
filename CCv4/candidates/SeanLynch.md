@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Seán Lynch ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/sean-lynch-platform-statement/109199)

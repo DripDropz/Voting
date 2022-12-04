@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Darlington Kofa - Wleh ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/darlington-kofa-platform-statement/109226)

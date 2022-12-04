@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Özgür Yaşar Akyar is Akya Ronesans ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/akya-ronesans-platform-statement/109178?u=catalyst-circle)

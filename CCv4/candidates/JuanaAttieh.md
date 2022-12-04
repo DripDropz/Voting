@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Juana Attieh ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/juana-attieh-platform-statement/109203)

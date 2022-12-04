@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Patrick Roncato ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/patrick-roncato-platform-statement/109201)

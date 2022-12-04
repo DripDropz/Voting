@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Stevani Ongko ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/stevani-ongko-platform-statement/109198)

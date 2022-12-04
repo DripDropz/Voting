@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Ross Pettitt ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/ross-pettitt-platform-statement/109192)

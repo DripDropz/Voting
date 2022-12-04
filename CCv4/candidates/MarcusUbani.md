@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Marcus Ubani ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/marcus-ubani-platform-statement/109227)

@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Adaku Agwunobi ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/adaku-agwunobi-platform-statement/109229)

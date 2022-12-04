@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Omolola Tofade ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/omolola-platform-statement/109193)

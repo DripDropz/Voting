@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Boaz Bandu Balume ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/boaz-bandu-platform-statement/109202)

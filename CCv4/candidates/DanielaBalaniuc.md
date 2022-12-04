@@ -1,5 +1,5 @@
-# Candidate #
-***
+# ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
+
 ## Daniela Balaniuc ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/daniela-balaniuc-platform-statement/109189)
