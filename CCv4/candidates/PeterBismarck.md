@@ -2,7 +2,7 @@
 
 ## Peter Bismarck ##
 
-[Link to Cardano Forum](https://forum.cardano.org/t/peter-bismarck/109145)
+[Link to Cardano Forum](https://forum.cardano.org/t/peter-bismark-platform-statement/109177)
 
 ### Describe Your Role in the Community ###
 

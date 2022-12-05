@@ -37,7 +37,7 @@ informed decision possible.
 * [Kevin Mohr](candidates/KevinMohr.md)
 * [Lee Yost](candidates/LeeYost.md)
 * [Marcus Ubani](candidates/MarcusUbani.md)
-* [Melannie Duhon](candidates/MelanniDuhon.md)
+* [Melannie Duhon](candidates/MelannieDuhon.md)
 * [Mike Ndaba](candidates/MikeNdaba.md)
 * [Mobolaji Onibudo](candidates/MobolajiOnibudo.md)
 * [Mohammed Mustapha Yakubu](candidates/MohammedMustaphaYakubu.md)
