@@ -44,7 +44,7 @@ informed decision possible.
 * [Nebiyu Sultan](candidates/NebiyuSultan.md)
 * [Ninh Tran](candidates/NinhTran.md)
 * [Omolola Tofade](candidates/OmololaTofade.md)
-* [Özgür Yaşar Akyar is Akya Ronesans](candidates/OzgurYasarAkyar.md)
+* [Özgür Yaşar Akyar](candidates/OzgurYasarAkyar.md)
 * [Patrick Roncato](candidates/PatrickRoncato.md)
 * [Patrick Tobler](candidates/PatrickTobler.md)
 * [Peter Bismarck](candidates/PeterBismarck.md)
