@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/nebiyu-sultan-platform-statement/109207)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 I have participated as a Voter, Funded Proposer, PA, Challenge Team and CCv3 Sub Circle. I also organize the Cardano Ethiopia community meetups, and actively promote every catalyst fund round to my community.
 
@@ -20,7 +20,7 @@ This being said, my main focus, as a rep in catalyst circle, will be to highligh
 * Highlight and bring attention to quality projects that the community needs to be aware of
 * Better layman explanations of advanced projects to ensure the community sees/understands their value
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 * Community engagements will be reported through Weekly reports which will include recordings and/or minutes of the engagements
 * Bi-weekly office hours will be available to conduct one-one meetings with teams or individuals, and this will be reported weekly as well through the Minutes that will be summited

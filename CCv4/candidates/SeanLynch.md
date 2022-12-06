@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/sean-lynch-platform-statement/109199)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter, Proposer, Cardano4Climate member
 
@@ -12,7 +12,7 @@ Voter, Proposer, Cardano4Climate member
 
 Impact
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Help measure impact quantitatively and qualitatively
 

@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/peter-bismark-platform-statement/109177)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 PROPOSER, PA, PA BUDDY PROJECT, COIN LIBERTY POLICY RESEARCH
 
@@ -12,7 +12,7 @@ PROPOSER, PA, PA BUDDY PROJECT, COIN LIBERTY POLICY RESEARCH
 
 functional blockchain and services of proof reputation. The NGO/NPO Ecosystem needs to be part of catalyst to drive for reforms and adoption of innovations and services
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Bi-monthly NGO/NPO innovation and services meetings. Quarterly reporting of activities and recording of meetings.
 

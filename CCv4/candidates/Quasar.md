@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/quasar-platform-statement/109222)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 All the ones listed by including circle
 
@@ -12,7 +12,7 @@ All the ones listed by including circle
 
 Communication
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Documenting meetings and engagement
 

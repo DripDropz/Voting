@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/george-lovegrove-platform-statement/109205)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 I have participated in Catalyst since fund 3. I have performed every role mentioned above which includes being a voter, proposer, PA, vPA and challenge team member.
 
@@ -16,7 +16,7 @@ In order of importance I would likely mostly be spending time supporting any com
 - Contributor funding model - There is a large amount of work to turn Catalyst into a world class governance solution for the Cardano treasury. A contributor funding model is one solution that can help us get there. Analysis has been finished to help highlight the benefits of adopting a contributor funding model - https://docs.catalystcontributors.org/contributor-analysis.
 - Proposal standards - Analysis is needed to effectively determine what makes a good proposal and what data structures should be used. This is an area I intend to be working on over the coming months which would coincide with being a Catalyst Circle member if I was elected.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 For communication with the community that will happen in either Telegram, Discord, Twitter or after town halls. After town halls are recorded and would be uploaded online, feedback from other channels can be aggregated into a document whenever it is necessary to share with the circle. For my own work everything I do is open source, available and can be tracked in a public repository - https://github.com/projectcatalyst. Work I have completed is regularly shared through Twitter, Telegram, Discord and occasionally on the Cardano forum.
 

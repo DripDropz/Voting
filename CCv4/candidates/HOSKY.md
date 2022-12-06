@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/hosky-platform-statement/109211)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter
 
@@ -14,7 +14,7 @@ As a Catalyst Circle representative I would champion for improvements on the cur
 
 As with everything that has made HOSKY successful as a Catalyst Circle representative I will take the no bull s#!t approach. No fluff, no sugar coating of issues, problems, or shortcomings, and just call things as they are.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 I would measure engagement of tweets related to Project Catalyst using Twitter's data analytics tools. I would also measure engagement based on attendance to Project Catalyst related Twitter spaces and or discord meetings.
 

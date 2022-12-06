@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/thomas-dimatteo-platform-statement/109224)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter, proposer, PA
 
@@ -12,7 +12,7 @@ Voter, proposer, PA
 
 Use of decentralized tool sets that already exist in Cardano today.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 GitHub along with actively engaging the community via discord, TH and Twitter spaces.
 

@@ -1,10 +1,10 @@
 # ![Project Catalyst](../assets/catalyst.svg) Circle v4 Candidate #
 
-## Özgür Yaşar Akyar is Akya Ronesans ##
+## Özgür Yaşar Akyar ##
 
 [Link to Cardano Forum](https://forum.cardano.org/t/akya-ronesans-platform-statement/109178?u=catalyst-circle)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 I have been involved as a Voter, PA and VPA since FUND2. I'm a challenge team member in FUND7 and FUND 8
 
@@ -16,7 +16,7 @@ I can facilitate a digital storytelling workshops to promote the engagement of t
 
 I further share our Catalyst Circle process with 2276 contacts in my Linkedin profile to trigger engagement and collaboration opportunities even beyond catalyst.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 TownHall participation, office hours, written prioritised problems, discord call
 

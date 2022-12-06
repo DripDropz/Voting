@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/mohammed-mustapha-yakubu-platform-statement/109215)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Fund8 CT Lead ( Grow Africa, Grow Cardano), Fund9 CT Lead (Grow Africa, Grow Cardano), Fund9 Proposer, Fund9 PA.
 
@@ -12,7 +12,7 @@ Fund8 CT Lead ( Grow Africa, Grow Cardano), Fund9 CT Lead (Grow Africa, Grow Car
 
 Support Challenge Teams to improve FP-IOG relationship, monitor project progress & closeout reporting effectively, support Catalyst School to effectively educate and onboard newbies and guide existing participants on Project Catalyst.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 By using google forms and sheets to manage data of participants for communications and marketing. Also, ensure that at least 50 new users are onboarded to Project Catalyst.
 

@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/curtis-myers-platform-statement/109221)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter
 
@@ -12,7 +12,7 @@ Voter
 
 I would like to identify the most problematic concerns from those that have the experience of Circle to not lose the valuable lessons from that experience. If you plan to build a governing body, I believe it to be wise to have a roadmap that includes a list of priorities at a high level along with a guidebook to navigate this path. Personally I felt the power that the whales had during the fund 9 voting robbed the spirit of Catalyst, granted that was the intent to allow things to break to see where we need to improve. but my passion is in solving this dilemma, I recognize that my passion may not be the shared passion of the community so I leave it to the consensus of the community to decide the importance of each proposed priority.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 When I reviewed the question how do I intend to measure my engagement with the community, I felt the lack understanding the context in the circle reporting document. So Before I can answer that I would like to see how knowledge management is currently being captured within the Circle. That would provide me with a better understanding to be able to utilize the experience of others. There are so many tools and experts that we have available to us I believe we can make the process more efficient in the sense of time. OpenAI and others tools along with tools like otter.ai can take the meeting minutes for us and summarize them into reports. This could be used for many of the platforms like zoom, twitter, discord, so on. If I were to provide a measurement of my engagement it would save a lot of time if there was a standard to be followed or agreed upon to alleviate duplicating the effort of all circle members establishing their own.
 

@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/lee-yost-platform-statement/109200)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Challenge team member, Voter, PA
 
@@ -12,7 +12,7 @@ Challenge team member, Voter, PA
 
 Anti-nepotism overhaul of the rating system and implementation of additional safeguards
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Townhall, Twitter space recordings and Twitter post discord meetings with minutes recorded. discord threads with links. Working with sub-circles with reports. Prioritize problems in a report
 
