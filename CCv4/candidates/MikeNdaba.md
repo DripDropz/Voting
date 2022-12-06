@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/ndabamike-platform-statement/109179?u=catalyst-circle)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Proposer
 
@@ -12,7 +12,7 @@ Proposer
 
 I would like to promote awareness of all the ongoing matters within the community while creating a platform via social media that promotes and advertises agendas, events, meetings, etc.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Growth withing our social media platforms will be the best indicator of engagement. Most soclail media sites provide adequate statistics that can help us monitor & engage in more effective ways.
 

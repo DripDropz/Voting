@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/david-baxter-platform-statement/109195)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 I'm a Voter, Proposer, and educator. We've been guiding people through proposal prep and worked with Lido Nation to host a course on being a PA
 
@@ -12,7 +12,7 @@ I'm a Voter, Proposer, and educator. We've been guiding people through proposal 
 
 Education and accessibility for people that are new to blockchain or struggling to find their place in the community.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 I believe I would measure my engagement using all the metrics listed in the circle reporting document in addition to creating educational resources that could help guide others regarding circle participation. At the Blockchain Learning Center we make courses and resources that are used to teach. We could also help by preparing resources to help people understand how to contribute as a circle member.
 

@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/melannie-duhon-platform-statement/109225)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter, PA, CEO of a completed and funded Fund 8 proposal
 
@@ -13,12 +13,16 @@ Voter, PA, CEO of a completed and funded Fund 8 proposal
 Streamlining the feasibility and audit standards of proposals. 
 Streamlining ALL relevant funding round information from start to finish of in ONE place. Give the community comprehensive information that is transparent, easily accessible and discernible to ensure optimal community participation.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Office-hours - Minutes / Recording, Bi-Weekly Slots, Minutes logged / Key Takeaways
+
 Prioritised Problems - Written & Presented at CC Meeting / TH & Key Takeaways 
+
 Working with Sub-circles Links/Summaries/Reports
+
 Office Hours- Written
+
 ProofofWork-Written
 
 ### Is there anything else you would like voters to know as to why you would be a good fit for this seat on the Circle? ###

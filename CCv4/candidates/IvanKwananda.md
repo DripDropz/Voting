@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/ivan-kwananda-platform-statement/109196)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter, Proposer, PA
 
@@ -12,7 +12,7 @@ Voter, Proposer, PA
 
 The process of the selection of the proposals and also how to identify people who want to get benefit out of catalyst without giving any significant effort to grow Cardano ecosystem
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 https://github.com/ivankwan88
 

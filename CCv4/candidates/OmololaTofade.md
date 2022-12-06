@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/omolola-platform-statement/109193)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 I have participated as the Catalyst Engagement Leader for Snapbrillia, a Catalyst funded organization that aims to increase global engagement in tech & web3. I have also engaged with proposals on Project Catalyst and have reached out to both funded and unfunded projects. In doing so, I was able to help propel their development using the tools and resources that Snapbrillia offers. Additionally, I have attended countless partnership calls and discussions with other members of the Catalyst Community. Through my work with Ninh and Tom of Snapbrillia, I have and will continue to grow my involvement in the Catalyst ecosystem.
 
@@ -16,7 +16,7 @@ As a Nigerian, I often face cultural stigmatization due to the prevalence of cor
 
 This ties into my purpose of choosing Growth & Impact, I believe that it is of great importance that when bringing the solutions that our blockchain offers to the ears of common people we are able to re-enforce our communal values. This will result in both an expansion of engagement within the Catalyst community and setting the tone for projects within Catalyst - encouraging more credible projects to seek funding and discouraging the cash-grab proposals that have become all too prevalent in recent funding rounds.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 When elected to Catalyst Circle, my first priority will be the establishment of a weekly Africa Catalyst Town Hall to match the other regions served by town halls. This will not only empower builders throughout Africa to access the skills and resources they need to thrive within our shared ecosystem, but also give us an additional platform for problem-sensing and communication directed from an African perspective. As opposed to a neo-colonial solution of being managed by those who are not attuned to the lived experience of the diverse array of African peoples. Through my work with Snapbrillia, I will continue to empower freelance entrepreneurs both locally and across the globe with new opportunities to engage in our rapidly evolving industry. This includes assisting people from all walks of life with finding freelance and employment opportunities within what I would consider a small yet rapidly growing ‘Cardano Industry’, unlocking the potential of people from all around the world while adding to the diversity of culture and insight within the core Catalyst Circle.
 

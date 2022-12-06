@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/kevin-mohr-platform-statement/109223)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Proposer, Challenge Team, PA?, vPA? Who knows.
 
@@ -12,7 +12,7 @@ Proposer, Challenge Team, PA?, vPA? Who knows.
 
 Legal Framework
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 The Practice of Law should not be measured.
 

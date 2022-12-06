@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/stevani-ongko-platform-statement/109198)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter, PA
 
@@ -12,7 +12,7 @@ Voter, PA
 
 It is better if we could improve the flagging system, where the proposer can't see the score & flag an assessor by the comment only. They cannot just flag everything with low rating. Other thing, I want to help how proposer can network together to make a great project even when they stay in different places.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 https://github.com/stevaniongko99
 

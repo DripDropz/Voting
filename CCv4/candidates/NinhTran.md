@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/ninh-tran-platform-statement/109191)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 F9 Voter that voted for 1150+ proposals
 
@@ -24,7 +24,7 @@ Advancing open-source ecosystem by promoting funding for the open-source communi
 
 Growth and onboarding of new members into the Cardano and Catalyst community.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 My engagement in the Catalyst Circles will be directly combined with all the open-source proposals as well as the adoption and growth proposals we got funded for. Those monthly reports and statements of intent for funded proposals are made public already.
 

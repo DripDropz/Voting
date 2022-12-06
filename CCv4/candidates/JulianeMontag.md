@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/juliane-montag-platform-statement/109208)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Proposer, Voter, CCv1 member, PA, vPA
 
@@ -12,7 +12,7 @@ Proposer, Voter, CCv1 member, PA, vPA
 
 Help to develop a functioning community driven governance system
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Impactful initiatives with tangible outcomes towards functioning community governance (can be improvements of actual status quo and/or new initiatives)
 

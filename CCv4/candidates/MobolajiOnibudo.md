@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/mobolaji-onibudo-platform-statement/109219)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Proposer
 
@@ -12,7 +12,7 @@ Proposer
 
 Art/NFT, Unsung community in Grow Africa, Grow Cardano - NFT community has never had Circle representation yet and it’s a huge part of the ecosystem
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Adopt the Project Catalysts Community Weekly reporting template i.e. https://github.com/Cardano-Project-Catalyst-Community/Catalyst-Circle/blob/ee71b86fd5b36331eed95e0aa5bb4d3a1b684896/Catalyst-Circle-Reporting/Weekly-Reporting-Template.md
 

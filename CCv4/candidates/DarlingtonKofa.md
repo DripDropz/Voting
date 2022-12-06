@@ -4,7 +4,7 @@
 
 [Link to Cardano Forum](https://forum.cardano.org/t/darlington-kofa-platform-statement/109226)
 
-### Describe Your Role in the Community ###
+### Describe the Community Roles in which you have participated at Project Catalyst ###
 
 Voter, Proposer, PA, vPA, tool maker, educator
 
@@ -12,7 +12,7 @@ Voter, Proposer, PA, vPA, tool maker, educator
 
 I will work at moving the needle on documentation & Information Gaps.
 
-### How do you intend to measure your engagement. Here some examples and suggestions for effective reporting ###
+### How do you intend to measure your engagement. ###
 
 Continuous surveys, Q&A in twitter spaces and monthly after townhall.
 
