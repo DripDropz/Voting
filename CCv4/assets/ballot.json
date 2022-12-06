@@ -1,0 +1,59 @@
+{
+  "446": {
+    "version": "1.0.0",
+    "type": "snapshot",
+    "snapshot": {
+      "asset": "lovelace",
+      "epoch": 380,
+      "minimum": 5000000
+    },
+    "authority": "Catalyst Circle",
+    "start": 1670370300,
+    "end": 1671234300,
+    "questions": [
+      {
+        "type": "ranked",
+        "maxChoices": 5,
+        "question": [
+          "Please select your five (5) preferred candidates for Catalyst",
+          "Circle v4. Your first choice will receive the full weight of",
+          "your voting power and each subsequent choice will receive 20%",
+          "less voting power."
+        ],
+        "supplemental": "ipfs://",
+        "choices": [
+          "Adaku Agwunobi",
+          "Boaz Bandu Balume",
+          "Curtis Myers",
+          "Daniela Balaniuc",
+          "Darlington Kofa - Wleh",
+          "David Baxter",
+          "George Lovegrove",
+          "HOSKY",
+          "Ivan Kwananda",
+          "Juana Attieh",
+          "Juliane Montag",
+          "Kevin Mohr",
+          "Lee Yost",
+          "Marcus Ubani",
+          "Melannie Duhon",
+          "Mike Ndaba",
+          "Mobolaji Onibudo",
+          "Mohammed Mustapha Yakubu",
+          "Nebiyu Sultan",
+          "Ninh Tran",
+          "Omolola Tofade",
+          "Özgür Yaşar Akyar is Akya Ronesans",
+          "Patrick Roncato",
+          "Patrick Tobler",
+          "Peter Bismarck",
+          "Quasar",
+          "Ross Pettitt",
+          "Seán Lynch",
+          "Stevani Ongko",
+          "Thomas DiMatteo"
+        ]
+      }
+    ]
+  }
+}
